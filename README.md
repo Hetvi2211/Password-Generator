@@ -8,3 +8,7 @@ The program will allow the user to specify the length of the password and whethe
 - **Special Characters**: Optionally include special characters such as `!`, `@`, `#`, etc.
 - **Secure Passwords**: Generates random, secure passwords to enhance online security.
 - **Regeneration Option**: Generate a new password with the same or different settings.
+## Technologies Used
+- **Python 3.x**
+- **random module**: For generating random characters.
+- **string module**: For accessing predefined character sets (lowercase letters, uppercase letters, digits, punctuation).
