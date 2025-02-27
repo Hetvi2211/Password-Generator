@@ -9,6 +9,6 @@ The program will allow the user to specify the length of the password and whethe
 - **Secure Passwords**: Generates random, secure passwords to enhance online security.
 - **Regeneration Option**: Generate a new password with the same or different settings.
 ## Technologies Used
-- **Python x**
+- **Python**
 - **random module**: For generating random characters.
 - **string module**: For accessing predefined character sets (lowercase letters, uppercase letters, digits, punctuation).
